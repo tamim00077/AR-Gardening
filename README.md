@@ -1,5 +1,5 @@
 AR Gardening with Unity AR Foundation
-============
+===================
 
 <div align="center">
     <img src="./docs/LogoFinal.png" width="128" height="128" style="display: block; margin: 0 auto"/>
@@ -27,7 +27,7 @@ AR Gardening with Unity AR Foundation
 
 ## Demo Video
 <p align="center">
-  <img src="./docs/final_app_use_demo.gif" width="30%" />
+  <img src="./docs/final_app_use_demo.gif" width="30%" /> 
   
   
 </p>
